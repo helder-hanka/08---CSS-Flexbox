@@ -2,6 +2,10 @@
     margin: auto;
     width: 100%;
 } */
+.section1 h2, 
+.section3 h2 {
+    opacity: 0;
+}
  ul {
     list-style-type: none;
     margin: 0;
